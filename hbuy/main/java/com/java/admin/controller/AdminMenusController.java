@@ -7,7 +7,7 @@ import com.java.admin.model.AdminMenusEntity;
 /**
  * 
  * @author djin
- *   AdminMenus控制器
+ *   AdminMenus控制器坎坎坷坷扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩
  * @date 2019-09-18 15:17:59
  */
 @Controller
