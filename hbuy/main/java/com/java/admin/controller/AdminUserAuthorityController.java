@@ -7,7 +7,7 @@ import com.java.admin.model.AdminUserAuthorityEntity;
 /**
  * 
  * @author djin
- *   AdminUserAuthority控制器
+ *   AdminUserAuthority控制器天天爱彩票
  * @date 2019-09-18 15:17:59
  */
 @Controller
