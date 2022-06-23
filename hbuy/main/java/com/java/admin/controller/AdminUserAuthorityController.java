@@ -1,8 +1,8 @@
 package com.java.admin.controller;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.stereotype.Controller;
 import com.java.admin.model.AdminUserAuthorityEntity;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
  
 /**
  * 
