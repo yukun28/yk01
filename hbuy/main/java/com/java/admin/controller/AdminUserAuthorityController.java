@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @author djin
  *   AdminUserAuthority控制器天天爱彩票
  *   是不错票    的历历可见
+ *   有修改何地的代码
  * @date 2019-09-18 15:17:59
  */
 @Controller
